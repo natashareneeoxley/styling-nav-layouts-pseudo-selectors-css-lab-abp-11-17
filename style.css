@@ -35,7 +35,9 @@ header a:hover {
   text-decoration: none;
   color: #868e96;
 }
-
+#example-id a:visited{
+  text-decoration: underline;
+}
 main{
   margin-top: 20px;
 }
